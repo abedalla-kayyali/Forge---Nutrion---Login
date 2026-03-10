@@ -1,0 +1,2 @@
+Inline OK: 1  External OK: 41  Failed: 0
+[smoke] All checks passed.
